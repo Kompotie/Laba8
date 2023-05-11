@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dialog">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAEAAADCACCAA=</HashCode>
+      <FileName>Dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAgAAAQAAAAAAAEAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAQAAAAAAQAAAAAAAEAIAAIAAACIiAAAA=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student">
+    <Position X="4.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAEAAABAAAAACAAAAEAIAAAAAAAAAAgAA=</HashCode>
+      <FileName>Student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEAAAAAACAEIAYAgAAAAAEAIAAAEAAAAAAAAA=</HashCode>
+      <FileName>Vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="TEvent" Collapsed="true">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAQAAAAgAAAAAAAAACA=</HashCode>
+      <FileName>Event.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
